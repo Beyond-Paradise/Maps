@@ -1,13 +1,16 @@
+<center>
+<img src="http://bpsamp.com/forum/images/vienna/bp.png"></img>
+
 #Welcome to Beyond Paradise Maps!
 
-This repository is used for maps for the Beyond Paradise server!
+This repository is for Beyond Paradise mappers :)
 
 ##How to upload my file?
 
 It's easy when understand basics of GitHub but before uploading your maps - 
 
-> You'll need to be in our Discord server and send your map in the #maps channels with previews.
->> [Discord invite](https://discord.gg/0lO2t3wdzaumeFSE).
+> You'll need to be in our Discord server and send your map in the #maps channels with previews. Join our server by using the
+ [Discord invite.](https://discord.gg/0lO2t3wdzaumeFSE)
 
 
 ##DO's and DON'Ts
@@ -22,6 +25,7 @@ It's easy when understand basics of GitHub but before uploading your maps -
 
 * Don't use SAMP Objects for MTA
 * Don't modify files without permission
+</center>
 
----
+
 
