@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <object id="object (vegasNbball1) (1)" breakable="true" interior="0" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="285" posY="3341.8999" posZ="0.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (landjump2) (1)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="276.20001" posY="3365.8999" posZ="2" rotX="6" rotY="0" rotZ="0"></object>
+    <object id="object (landjump2) (3)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="276.20001" posY="3369.6001" posZ="4.9" rotX="33.999" rotY="0" rotZ="358"></object>
+    <object id="object (landjump2) (2)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="276.29999" posY="3371" posZ="9.1" rotX="61.997" rotY="0" rotZ="357.995"></object>
+    <object id="object (landjump2) (4)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="276.29999" posY="3370" posZ="14.1" rotX="80.004" rotY="180" rotZ="177.99"></object>
+    <object id="object (vegasNbball1) (2)" breakable="true" interior="0" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="285" posY="3341.8999" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Sanchez) (1)" paintjob="3" interior="0" alpha="255" model="468" plate="2NLJ Q5E" dimension="0" posX="278.40039" posY="3340.7998" posZ="1.2" rotX="0" rotY="0" rotZ="0" color="22,34,72,22,34,72,0,0,0,0,0,0"></vehicle>
+    <object id="object (landjump2) (5)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="310.20001" posY="3355.5" posZ="15" rotX="5.999" rotY="0" rotZ="272"></object>
+    <object id="object (landjump2) (7)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="312.89999" posY="3355.6001" posZ="18.3" rotX="41.999" rotY="0" rotZ="272"></object>
+    <object id="object (landjump2) (6)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="314.10001" posY="3355.6001" posZ="22.9" rotX="67.995" rotY="0" rotZ="272"></object>
+    <object id="object (landjump2) (9)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="312.29999" posY="3355.6001" posZ="28.4" rotX="76.006" rotY="180" rotZ="92"></object>
+</map>
