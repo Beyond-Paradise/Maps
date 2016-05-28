@@ -7,7 +7,8 @@ This repository is for Beyond Paradise mappers :)
 ##How to upload my maps?
 
 You'll need to be in our [Discord](https://discordapp.com/) server and send your map in the Developer channel with map previews. Join our server by clicking on this nice banner below :)
-<img src="https://discordapp.com/api/servers/136832978163728384/widget.png?style=banner2"></img>
+<br>
+<center><img src="https://discordapp.com/api/servers/136832978163728384/widget.png?style=banner2"></img></center>
 
 ##What is what?
 
