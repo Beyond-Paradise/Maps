@@ -8,7 +8,7 @@ This repository is for Beyond Paradise mappers :)
 
 You'll need to be in our [Discord](https://discordapp.com/) server and send your map in the Developer channel with map previews. Join our server by clicking on this nice banner below :)
 <br>
-<center><img src="https://discordapp.com/api/servers/136832978163728384/widget.png?style=banner2"></img></center>
+[url=https://discord.gg/0lO2t3wdzaviMGR2][img]https://discordapp.com/api/servers/136832978163728384/widget.png?style=banner2[/img][/url]
 
 ##What is what?
 
@@ -23,12 +23,14 @@ You'll need to be in our [Discord](https://discordapp.com/) server and send your
 
 **DO**
 
-* Use MTA or SAMP Mapper
+* Use common sense
+* Use MTA Map Editor or SAMP Map Editor
 * Modify other maps
 
 **DON'T**
 
-* Don't use SAMP Objects for MTA
+* Don't get rekt by your own map
+* Don't use SAMP 0.3.7 Objects for MTA
 
 
 
